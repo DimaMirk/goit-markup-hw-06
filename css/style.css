@@ -140,6 +140,9 @@ header {
 .site-nav li:not(:last-child) {
   margin-right: 50px;
 }
+.contacts.list li:not(:last-child) {
+  margin-right: 50px;
+}
 
 /* Head contacts */
 
