@@ -283,6 +283,7 @@ header .contacts.list li:not(:last-child) {
 }
 .close-btn:hover svg {
   fill: var(--accent-color);
+  cursor: pointer;
 }
 .modal-title {
   text-align: center;
@@ -370,7 +371,6 @@ header .contacts.list li:not(:last-child) {
   line-height: 24px;
   letter-spacing: 0.03em;
   color: #757575;
-  cursor: pointer;
 }
 .checkbox > label::before {
   position: absolute;
